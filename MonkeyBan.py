@@ -1,3 +1,8 @@
+#Install -> python from microsoft store
+#Install -> pip install pygame==2.1.3.dev8
+#Run cd command for project folder location
+# Run python Dustbin.py
+
 #importing pygame module as py
 import pygame as py
 #from pygame.locals import *
